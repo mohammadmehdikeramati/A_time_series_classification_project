@@ -1,5 +1,4 @@
 # Sample_Code
-a deep learning model (LSTM) sample code.
 It is a deep learning model (LSTM) for the classification of two classes (each class has two features), which was applied to a large dataset. 
 
 It has consisted three phases:
